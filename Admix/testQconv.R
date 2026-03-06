@@ -1,7 +1,7 @@
 ## Returns number of converged runs based on Q matrix differences to the best run
-## Arguments: 1) file with log likelihoods per run (Recommended: 0.01, virtually no visual difference)
+## Arguments: 1) file with log likelihoods per run 
 ##            2) file with list of Q matrix files per run (same order as log likelihoods)
-##            3) threshold for maximum difference to consider run converged
+##            3) threshold for maximum difference to consider run converged (Recommended: 0.01, virtually no visual difference)
 
 
 
