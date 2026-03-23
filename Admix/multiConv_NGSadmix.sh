@@ -7,7 +7,7 @@ K=$5 #number of populations
 star=$6 # starting seed
 bfile=`basename $file`
 
-# How to run: `bash multiConv_NGSadmix.sh <beagle file prefix> <last seed> <threads> <output folder> <number of K> <first seed>
+# How to run: `bash multiConv_NGSadmix.sh <beagle file prefix> <last seed> <threads> <output folder> <number of K> <first seed>`
 
 ADM=/maps/projects/bos/apps/NGSadmix/NGSadmix
 CONV_TIMES=3
